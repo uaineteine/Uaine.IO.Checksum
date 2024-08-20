@@ -5,13 +5,14 @@
     <SignAssembly>False</SignAssembly>
     <Title>Uaine.IO.Checksum</Title>
     <Authors>Daniel Stamer-Squair</Authors>
-    <Copyright>Daniel Stamer-Squair 2023</Copyright>
+    <Copyright>Daniel Stamer-Squair 2024</Copyright>
     <PackageProjectUrl>https://github.com/uaineteine/Uaine.IO.checksum</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/uaineteine/Uaine.IO.checksum</RepositoryUrl>
     <Description>A .net library for checksumming bytes</Description>
     <PackageIcon>icon.png</PackageIcon>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

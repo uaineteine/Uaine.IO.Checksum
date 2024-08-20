@@ -1,0 +1,7 @@
+--1.0.1--
+
+Introduced new hashing types
+- SHA1
+- SHA512
+- LANE
+- MD6
